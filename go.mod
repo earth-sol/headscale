@@ -1,8 +1,6 @@
 module github.com/juanfont/headscale
 
-go 1.22.0
-
-toolchain go1.22.2
+go 1.23.0
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
@@ -40,7 +38,7 @@ require (
 	golang.org/x/crypto v0.23.0
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842
 	golang.org/x/net v0.25.0
-	golang.org/x/oauth2 v0.20.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sync v0.7.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240515191416-fc5f0ca64291
 	google.golang.org/grpc v1.64.0
